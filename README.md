@@ -2,6 +2,8 @@
 
 Learn quantum programming in **Qiskit** or **Cirq**, from Python basics to Grover's search and the QFT, then go deeper with the advanced **QuTiP** track: Hamiltonians, master equations and open quantum systems. Everything has live visuals.
 
+**Try it in your browser:** https://bala2004.github.io/QProg/
+
 ## Run it
 
 There's no build step and nothing to install. Because the app uses ES modules, serve the folder over HTTP rather than opening the file directly:
